@@ -1,0 +1,10 @@
+apply plugin: 'com.android.instantapp'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+}
+
+dependencies {
+    implementation project(":banjara-base")
+}

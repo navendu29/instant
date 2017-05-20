@@ -1,0 +1,1 @@
+include ':app', ':banjara-base', ':banjara-app', ':banjara-instantapp'
